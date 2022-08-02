@@ -10,14 +10,14 @@ use-site-title: true
 #### ![pins](/img/mapicons/defconpin.png) DEFCON 30
 `August 11-14, 2022`
 
-`where:` ([Caesars Forum](https://goo.gl/maps/VddzBzUzmNHp9UhUA))
+`where:` ([Caesars Forum](https://goo.gl/maps/VddzBzUzmNHp9UhUA)) 
        + ([Flamingo Las Vegas](https://g.page/flamingovegas?share))
        + ([Harrah's Las Vegas](https://g.page/harrahsvegas?share))
        + ([The Linq Las Vegas](https://goo.gl/maps/sVMeGn5sTKaDiJnz7))
 
 `web:` https://defcon.org
 
-The [DEF CON](https://defcon.org) is the premiere global hacker conference. Even after 30 years, DEF CON remains an open space for intellectual exploration, open to all those who want to participate in good faith. [Learn more about DEF CON...](defcon)
+The [DEF CON](https://defcon.org) is the premiere global hacker conference. Even after 30 years, DEF CON remains an open space for intellectual exploration, open to all those who want to participate in good faith. [Learn more about DEF CON...](https://lostpolicymaker.org/defcon/)
 
 #### ![pins](/img/mapicons/blackhatpin.png) Black Hat
 `August 6-11, 2022 (Trainings)`
@@ -26,9 +26,9 @@ The [DEF CON](https://defcon.org) is the premiere global hacker conference. Even
 
 `where:` ([Mandalay Bay Las Vegas](https://g.page/mandalaybayresort?share)) + Virtual
 
-`web:` https://blackhat.com/us-20\n
+`web:` https://blackhat.com/us-22/
 
-The [Black Hat](https://blackhat.com) conference features talks about security issues and approaches that impact enterprises and corporations. [Learn more about Black Hat...](blackhat)
+The [Black Hat](https://blackhat.com) conference features talks about security issues and approaches that impact enterprises and corporations. [Learn more about Black Hat...](https://lostpolicymaker.org/blackhat/)
 
 #### ![pins](/img/mapicons/bsidespin.png) BSides Las Vegas
 `August 9-10, 2022`
@@ -37,7 +37,7 @@ The [Black Hat](https://blackhat.com) conference features talks about security i
 
 `web:` https://bsideslv.org
 
-[BSides Las Vegas](https://bsideslv.org) is the original in a series of over 100 global annual events, founded in 2009 as an 'un-conference' style event as as more laid-back alternative to DEF CON and Black Hat. [Learn more about BSides Las Vegas...](bsideslv)
+[BSides Las Vegas](https://bsideslv.org) is the original in a series of over 100 global annual events, founded in 2009 as an 'un-conference' style event as as more laid-back alternative to DEF CON and Black Hat. [Learn more about BSides Las Vegas...](https://lostpolicymaker.org/bsideslv/)
 
 <br>
 
@@ -46,6 +46,7 @@ The [Black Hat](https://blackhat.com) conference features talks about security i
 * Buy and test a new, clean phone, with new accounts (optional)
 * Register for conference secure wifi
 * Prepare to stand and walk a lot (bring comfy shoes)
+* Bring your face mask of choice (required by DEF CON and BSides)
 * Rest up for a few days before
 * Earmark some talks, villages, and events
 * Schedule time to eat and sleep
